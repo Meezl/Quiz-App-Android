@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BibleQuiz</string>
+    <string name="quiz_text"> Was Paul the first Christian?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="menu_settings">Settings</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="quiz_text0">King David was called "A man after God\'s heart"?</string>
+    <string name="quiz_text1">Bible has 66 Books?</string>
+    <string name="quiz_text2">Jesus was born in Bethlehem?</string>
+    <string name="quiz_text3">King Solomon was King David\'s son?</string>
+    <string name="quiz_text4">James was Peter\'s brother?</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show</string>
+    <string name="judgement_toast">Cheating is wrong!</string>
+</resources>
