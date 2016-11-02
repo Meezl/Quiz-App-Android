@@ -20,6 +20,6 @@
         android:id="@+id/showAnswerButton"
         android:text="@string/show_answer_button"
         android:clickable="true"
-        android:backgroundTint="#ffc107"/>
+        android:theme="@style/AppTheme"/>
 
 </LinearLayout>
